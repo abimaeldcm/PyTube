@@ -1,4 +1,4 @@
-<h3>PyTube - Download de Vídeo do Youtube<h3 />
+PyTube - Download de Vídeo do Youtube
 
 O PyTube é uma aplicação simples em Python que permite realizar o download de vídeos do Youtube de forma rápida e fácil. Com essa ferramenta, você poderá salvar seus vídeos favoritos diretamente em seu computador para assistir offline quando quiser.
 
